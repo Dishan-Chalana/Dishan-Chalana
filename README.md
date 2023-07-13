@@ -88,11 +88,13 @@
 <br>
 
 ### 📊 Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishan-chalana&show_icons=true&locale=en&layout=compact" alt="dishan-chalana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishan-chalana&show_icons=true&locale=en" alt="dishan-chalana" /></p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dishan-Chalana" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dishan-Chalana&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 <br>
